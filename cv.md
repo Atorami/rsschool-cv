@@ -16,4 +16,4 @@
 - Social :
 [Facebook](https://www.facebook.com/anton.martsinckevich/),
 [Linkedin](https://www.linkedin.com/in/anton-martsinkevich/)
-- Diskord nickname : Atorami#4542
+- Discord nickname : Atorami#4542
