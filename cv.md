@@ -17,3 +17,33 @@
 [Facebook](https://www.facebook.com/anton.martsinckevich/),
 [Linkedin](https://www.linkedin.com/in/anton-martsinkevich/)
 - Discord nickname : Atorami#4542
+
+
+## Skills
+### Hard skills
+
+- HTML
+- CSS
+- JavaScript
+- React (In progress)
+- PHP
+- Laravel
+
+### Soft skills
+
+- Self-learning
+- Problem-solving skills
+- Communication skills
+- Emotional intelligence
+
+### Languages
+
+- English (A2+)
+- Polish (A2)
+- Russian (native)
+
+## Experience
+
+    Programmed in start-up for a year. In project I used HTML, CSS, JavaScript at front-end side and PHP, Laravel, MySQL at back-end side.
+    Wrote a module for automatical mail sanding for customers with their abadoned goods plus module for generating discount coupones.
+    Also made a page with list of active customers who subscribed/unsubscribed of newsletters.
