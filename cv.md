@@ -39,3 +39,34 @@ Currently, I work as an electrician in the marine field and I am eager to transi
   - Technologies: React, Tailwind CSS, Yarn, Wordpress
 
 For more projects, visit my GitHub page [@Atorami](https://github.com/atorami).
+
+## Education
+
+- **WSB Merito University, Szczecin (Poland)**
+  - Informatics
+  - *2023 - Present*
+
+- **Belarusian State Academy of Communications, Minsk (Belarus)**
+  - Telecommunications
+  - *2013 - 2016*
+
+## English Proficiency
+
+- B1 level, with practical experience in technical and professional contexts.
+
+## Code Samples
+
+You can find examples of my work on [GitHub](https://github.com/atorami).
+
+### Codewars rating:
+[![Codewars](https://www.codewars.com/users/Atorami/badges/small)](https://www.codewars.com/users/Atorami)
+
+## Certificates
+
+- Microsoft Certified: Azure Fundamentals, Microsoft, 2024
+- Cisco Certified: Support Technician Cybersecurity, Cisco, 2024
+- Introduction to Cybersecurity, Cisco, 2024
+- Networking Basics, Cisco, 2024
+- Endpoint Security, Cisco, 2024
+- Python Essentials 1, Cisco, 2024
+- JavaScript Essentials 1, Cisco, 2024
