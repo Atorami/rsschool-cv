@@ -127,6 +127,10 @@
 .projects__descr_item{
     margin-bottom: 1em;
 }
+.code__example{
+    background-color: #e2e0e0;
+    margin: 2em 0 2em 0;
+}
 
 .main-right__img-block {
     width: 100%;
