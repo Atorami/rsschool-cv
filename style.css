@@ -37,6 +37,20 @@
 .header__block__resume p{
     width: 100%;
 }
+.navigation{
+    margin: 2em 1em 2em 1em;
+}
+.navigation-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigation-list li{
+    font-size: 1.2em;
+    font-weight: 800;
+}
+
 .main {
     width: 100%;
     min-height: 100vh;
