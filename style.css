@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.section-title {
+    margin: 1em 0;
+    font-size: 1.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.header__block{
+    width: 70%;
+}
+.header__block__resume {
+    width: 200px;
+    height: 50px;
+    background-color: #2812a5;
+    color: #ffffff;
+    padding: 0.5em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.header__block__resume p{
+    width: 100%;
+}
+.navigation{
+    margin: 2em 1em 2em 1em;
+}
+.navigation-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigation-list li{
+    font-size: 1.2em;
+    font-weight: 800;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.main .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main-left {
+    width: 100%;
+    max-width: 70%;
+    padding-right: 1em;
+}
+
+.main-right {
+    width: 100%;
+    max-width: 30%;
+    padding-left: 1em;
+}
+
+.main-left__resume p {
+    width: 100%;
+    font-size: 1.2em;
+}
+
+.main-left__title {
+    margin: 1em 0 0.2em;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+.main-left__subtitle {
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1.4em;
+    margin-bottom: 2em;
+}
+
+.main-left__contact {
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    padding: 1em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-left__contact li {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.main-left__contact li img {
+    width: 40px;
+    height: 40px;
+    margin-right: 0.5em;
+}
+
+.main-left__experience {
+    margin-top: 3em;
+}
+.education__descr_item{
+    margin-bottom: 1em;
+}
+.projects__descr_item{
+    margin-bottom: 1em;
+}
+.code__example{
+    background-color: #e2e0e0;
+    margin: 2em 0 2em 0;
+}
+
+.main-right__img-block {
+    width: 100%;
+    height: 400px;
+    background-image: url(./assets/img/resume-av.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-right__about {
+    background-color: #eeeeee;
+    height: auto;
+    margin-top: 2em;
+    padding: 1.5em;
+}
+
+.footer{
+    width: 100%; 
+    height: 80px;
+}
+.footer .container{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2812a5;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.footer-left img{
+    width: 120px;
+    filter: invert(1);
+}
+.footer-right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #ffffff;
+}
+.footer-right img{
+    width: 40px;
+    filter: invert(1);
+    margin-left: 2em;
+}
+
+@media (max-width: 768px) {
+    .main .container {
+        flex-direction: column;
+    }
+    .main-left, .main-right {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+}
